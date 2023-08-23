@@ -4,7 +4,7 @@
 * #### diy.bmp 自定义源/接口
   1.<a href="#o3">简介</a>  
   2.<a href="#o4">使用方法</a>
-    - 准备工具
+    - <a href="#o41">准备工具</a>
 
 ##### 纯净家庭源/接口使用教程
 1. <a id="o1">简介</a>
@@ -17,15 +17,21 @@
 接口直链1: `https://ghproxy.com/https://raw.githubusercontent.com/HiTang123/abc/main/o.bmp`                           
 接口直链2: `https://gcore.jsdelivr.net/gh/HiTang123/abc@main/o.bmp`
 
-<img src="https://agit.ai/cacifer/xyz/raw/branch/master/img/%e7%a4%ba%e4%be%8b.jpg" style="width:600px;height:300px;" />  
+<img src="https://agit.ai/cacifer/xyz/raw/branch/master/img/%e7%a4%ba%e4%be%8b.jpg" style="width:400px;height:200px;" />  
 
 ##### Diy自定义源/接口使用教程
-1.<a id="o3">简介</a>  
-> diy.bmp 是适用于零基础但又想自定义源内容的TVBox萌新用户，本接口开放出4个源让用户进行自定义内容，有B站源、Alist源、live2cms(直播转点播)、直播源，同时还可自定义阿里云token
+1. <a id="o3">简介</a>  
+> diy.bmp 是适用于零基础但又想自定义源内容的TVBox萌新用户，本接口开放出4个源让用户进行自定义内容，有B站源(自定义B站源内容)、Alist源(可自定义挂载alist)、live2cms(直播转点播)、直播源，同时还可自定义阿里云token，其余源由本人维护，从而降低想玩本地包用户的使用难度。
 <img src="https://raw.githubusercontent.com/HiTang123/abc/main/diy源概览.png" style="width:400px;height:200px;" />
 
 2. <a id="o4">使用方法</a>
-
+    - <a id="o41">准备工具</a>
+      + 本地自定义包 [下载链接](https://wwyi.lanzouj.com/i7EOE167b8ba)
+      + TVBox助手app [下载链接](https://wwyi.lanzouj.com/iFBV9167b9wh)
+    - <a id="o42">部署手机和电视</a>
+      + 部署手机</br>
+        > 手机安装TVBox助手app，然后将本地包“tvbox.zip”解压到系统根目录，确保解压后的文件夹名为“tvbox”，否则接口识别不到</br>
+        <img src="https://agit.ai/cacifer/xyz/raw/branch/master/img/a1.jpg" style="width:280px;height:250px;" />
 
 
 
