@@ -7,10 +7,11 @@
     - 准备工具
 
 ##### 纯净家庭源/接口使用教程
-1. <a id="o1">简介</a>  
-  o.bmp 是适用于家庭使用的TVBox接口，大多数源是从B站爬取的数据，以兴趣培养和文艺娱乐为主，同时兼具基本的影视资源，尽量避免放置有不良广告信息和内容的源，以保证本接口的宗旨，绿色纯净。  
+1. <a id="o1">简介</a>
+
+o.bmp 是适用于家庭使用的TVBox接口，大多数源是从B站爬取的数据，以兴趣培养和文艺娱乐为主，同时兼具基本的影视资源，尽量避免放置有不良广告信息和内容的源，以保证本接口的宗旨，绿色纯净。  
 <img src="https://raw.githubusercontent.com/HiTang123/abc/main/o家庭源概览.png" style="width:400px;height:370px;" />  
-2. <a id="o2">使用方法</a>   
+4. <a id="o2">使用方法</a>   
 将o.bmp直链复制粘贴到软件的“点播/配置地址”即可使用  
 <img src="https://agit.ai/cacifer/xyz/raw/branch/master/img/示例.jpg" style="width:600px;height:300px;" />  
 
