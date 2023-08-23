@@ -22,7 +22,10 @@
 ##### Diy自定义源/接口使用教程
 1.<a id="o3">简介</a>  
 > diy.bmp 是适用于零基础但又想自定义源内容的TVBox萌新用户，本接口开放出4个源让用户进行自定义内容，有B站源、Alist源、live2cms(直播转点播)、直播源，同时还可自定义阿里云token
-<img src="https://raw.githubusercontent.com/HiTang123/abc/main/diy源概览.png" style="width:400px;height:230px;" />
+<img src="https://raw.githubusercontent.com/HiTang123/abc/main/diy源概览.png" style="width:400px;height:200px;" />
+
+2. <a id="o4">使用方法</a>
+
 
 
 
