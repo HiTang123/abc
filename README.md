@@ -34,14 +34,16 @@
       + 本地自定义包 [下载链接](https://wwyi.lanzouj.com/i7EOE167b8ba)
       + TVBox助手app [下载链接](https://wwyi.lanzouj.com/iFBV9167b9wh)
     - <a id="o42">部署手机和电视</a>
-      + 部署手机</br>
+      + 手机部署</br>
         > 手机安装TVBox助手app，然后将本地包“tvbox.zip”解压到系统根目录，确保解压后的文件夹名为“tvbox”，否则接口识别不到本地包</br>
         <img src="https://agit.ai/cacifer/xyz/raw/branch/master/img/a1.jpg" style="width:280px;height:250px;" />
-      + 部署电视</br>
+      + 电视部署</br>
         > 电视打开影视app/TVBox，将diy.bmp直链复制粘贴到软件的“点播/配置地址”，点击确定</br>
       
         接口直链1: `https://ghproxy.com/https://raw.githubusercontent.com/HiTang123/abc/main/diy.bmp`                           
         接口直链2: `https://gcore.jsdelivr.net/gh/HiTang123/abc@main/diy.bmp`
+      + 手机推送本地包到电视
+        > 先打开电视影视app/TVBox的推送码界面,然后手机打开TVBox助手app，点击“推送本地包”，再点击“推送”，扫描电视的推送码，等显示上传成功即可
     - <a id="o43">自定义B站源</a>
 
 
